@@ -2,9 +2,8 @@
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently learning Python and Webdevelopment.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me srijapasupuleti3259@gmail.com 
 - 😄 Pronouns:she,Her
-- ⚡ Fun fact: ...
 
 <!---
 Srija-pasupuleti/Srija-pasupuleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
