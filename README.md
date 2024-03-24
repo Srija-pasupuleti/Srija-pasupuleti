@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Srija-pasupuleti
 - 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently learning Python and Webdevelopment.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and Web development.
 - 📫 How to reach me srijapasupuleti3259@gmail.com 
 - 😄 Pronouns:she,Her
 
